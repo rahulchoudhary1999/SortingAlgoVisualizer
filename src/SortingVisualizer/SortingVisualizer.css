@@ -1,0 +1,16 @@
+.array-container{
+    /* margin: auto;
+    width: 80%;
+    border: 3px solid #73AD21;
+    padding: 10px;
+    height:80%; */
+    position:absolute;
+    left:100px;
+}
+
+.array-bar{
+    
+    width:35px;
+    margin:0px 1px; 
+    display:inline-block;
+}
